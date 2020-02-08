@@ -2,13 +2,14 @@
     <img src="https://i.imgur.com/gBcNlON.png" alt="Subasa logo" title="Subasa" align="right" height="60" />
 </a>
 
-# Javascript API for Subasa Sinhala spell checker
+# Subasa API
+_Javascript API for the Subasa Sinhala spell checker_
 
 ## Usage
 
 Download node from nodejs.org and install it, if you haven't already.
 
-Then install sinhala-sub-maker using npm or yarn.
+Then install subasa-api using npm or yarn.
 
 ```javascript
 npm install @ipmanlk/subasa-api --save
